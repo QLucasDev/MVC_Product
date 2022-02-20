@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "h+GITT7lKhC1SHTF8sj/GBMUAsScVYIkYIToaM/nCts=",
+  "Hash": "XNK8hlAkp67STL2gQ+U08vsqgrMHhZSS5IL7nIyWBHk=",
   "Source": "MVC_Product",
   "BasePath": "_content/MVC_Product",
   "Mode": "Default",
@@ -967,6 +967,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\lucas\\Workspace\\C Sharp\\ASP.NET\\WebApp\\MVC_Product\\MVC_Product\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.custom.pt-br.js",
+      "SourceId": "MVC_Product",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lucas\\Workspace\\C Sharp\\ASP.NET\\WebApp\\MVC_Product\\MVC_Product\\wwwroot\\",
+      "BasePath": "_content/MVC_Product",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate.custom.pt-br.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.custom.pt-br.js"
     },
     {
       "Identity": "C:\\Users\\lucas\\Workspace\\C Sharp\\ASP.NET\\WebApp\\MVC_Product\\MVC_Product\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
